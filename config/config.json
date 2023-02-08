@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x53A0d3dd6B7EEa8D7acA3482AbF0d17a01B40E7c",
-  "SCAN_LINK": "https://scan.test.btcs.network/token/0x53A0d3dd6B7EEa8D7acA3482AbF0d17a01B40E7c",
+  "CONTRACT_ADDRESS": "0x071a52d48dd0A85da98F3D2Cffaf3652bD420a2c",
+  "SCAN_LINK": "https://scan.test.btcs.network/token/0x071a52d48dd0A85da98F3D2Cffaf3652bD420a2c",
   "NETWORK": {
     "NAME": "Core Chain TestNet",
     "SYMBOL": "tCORE",
