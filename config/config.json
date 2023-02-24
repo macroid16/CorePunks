@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x071a52d48dd0A85da98F3D2Cffaf3652bD420a2c",
-  "SCAN_LINK": "https://scan.test.btcs.network/token/0x071a52d48dd0A85da98F3D2Cffaf3652bD420a2c",
+  "CONTRACT_ADDRESS": "0xa9f566cf4f5005bf0000f8e94e50a9f2df167670",
+  "SCAN_LINK": "https://scan.coredao.org/0xa9f566cf4f5005bf0000f8e94e50a9f2df167670",
   "NETWORK": {
-    "NAME": "Core Chain TestNet",
-    "SYMBOL": "tCORE",
-    "ID": 1115
+    "NAME": "Core Mainnet ",
+    "SYMBOL": "CORE",
+    "ID": 1116
   },
   "NFT_NAME": "CorePunks",
-  "SYMBOL": "CPUNKS",
+  "SYMBOL": "CPUNK",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 500000000000000000,
-  "DISPLAY_COST": 0.5,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 0.3,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "YoungParrot",
   "MARKETPLACE_LINK": "https://app.youngparrotnft.com/core/collections/coinchainpunks",
